@@ -2,3 +2,8 @@
 //My first project's goal is to understand how the microcontroller works using a project relating to my field of interest
   (space stuff)
 
+//First I need to understand how to use Arduino's IDE. I think this software uses a mix of C, C++,
+  and its logic is based on if-and-then statements. Its sketches are based on two main functions: setup and loop.
+
+
+
